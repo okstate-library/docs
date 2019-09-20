@@ -46,4 +46,4 @@ For this process, all activities are done by the EZproxy administrator.
 22. Email the usernames and passwords to the program coordinator.
 23. Call the program coordinator and tell them the password over the phone.
 
-<sub>1</sup>See the head of the DRDS department for the URL where EZproxy can be restarted.
+<sub>1 </sup>See the head of the DRDS department for the URL where EZproxy can be restarted.

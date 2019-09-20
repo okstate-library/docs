@@ -2,10 +2,10 @@
 EZproxy uses OSU's central authentication to authenticate most of its users. For special case, e.g., temporary programs or students in remote programs, etc., we create local users.
 
 #### Boundaries
-The process begins when a patron who does not have typical Okey credentials needs access to library resources.
+The process begins when a patron who does not have typical OKEY credentials needs access to library resources.
 
 #### Outputs
-Local accounts in EZproxy and temporary accounts in Alma. A user should use the same username and password accross all library resources.
+Local accounts in EZproxy and temporary accounts in Alma. A user should use the same username and password across all library resources.
 
 #### Inputs
 1. Access to EZproxy's `LocalAccounts.txt` file.

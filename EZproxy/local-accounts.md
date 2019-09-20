@@ -29,16 +29,21 @@ For this process, all activities are done by the EZproxy administrator.
 5. Begin a new section at the end of the `LocalAccounts.txt` file by creating a comment. This consists of a `#` character followed by an easy-to-understand description, e.g., "# Local accounts Fall 2019 Exec PhD candidates." Follow this line with your initials in parenthesis, so others know who created the entry.
 6. Below this opening line, create a line for each user with the following format: `<username>:<password>:IfBefore=<date access ends>`. Do not type in `<` or `>`. This is my notation telling you to type the content enclosed within those brackets.
 7. Restart EZproxy<sub>1</sup>.
-8. Log into Alma and click on the following menus: *Fulfillment*, *Manage Patron Services*. Complete steps nine through eighteen for each new user.
+8. Log into Alma and click on the following menus: *Fulfillment*, *Manage Patron Services*. Complete steps nine through nineteen for each new user.
 9. Click *Register New User*.
 10. Enter the user's first and last names.
 11. Change the *Primary identifier* to the user's EZproxy username.
 12. Select *Stillwater* for *Campus*.
 13. Select *AFFILIATEZ* for the *User group*.
 14. Set both the *Expiration date* and *Purge date* to the last day the user has access.
-15. Set the user's password to the same as their EZproxy password. **Manually type in the password to both password fields. Alma will grab extra characters from the clipboard if you try to copy the password into these fields.**
+15. Set the user's password to the same as their EZproxy password. **Manually type in the password to both password fields. Alma will grab extra characters from the clipboard if you try to copy and paste the password into these fields.**
 16. Check *School* under *Email types* and enter the user's email address.
 17. Check *School* under *Address types* and enter `Distance Learning` in *Address line 1*.
-18. Click *Update user*.
+18. Click *Update User*.
+19. Click *Done*.
+20. Password protect the Excel file using a password made with a password generator.
+21. Place the file's password in an encrypted LastPass file for safe keeping.
+22. Email the usernames and passwords to the program coordinator.
+23. Call the program coordinator and tell them the password over the phone.
 
 <sub>1</sup>See the head of the DRDS department for the URL where EZproxy can be restarted.

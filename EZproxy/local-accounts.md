@@ -28,7 +28,7 @@ For this process, all activities are done by the EZproxy administrator.
 4. Use a password generator to generate secure passwords and put them in the sheet.
 5. Begin a new section at the end of the `LocalAccounts.txt` file by creating a comment. This consists of a `#` character followed by an easy-to-understand description, e.g., "# Local accounts Fall 2019 Exec PhD candidates." Follow this line with your initials in parenthesis, so others know who created the entry.
 6. Below this opening line, create a line for each user with the following format: `<username>:<password>:IfBefore=<date access ends>`. Do not type in `<` or `>`. This is my notation telling you to type the content enclosed within those brackets.
-7. Restart EZproxy<sub>1</sup> .
+7. Restart EZproxy. See the head of the DRDS department for the URL where EZproxy can be restarted.
 8. Log into Alma and click on the following menus: *Fulfillment*, *Manage Patron Services*. Complete steps nine through nineteen for each new user.
 9. Click *Register New User*.
 10. Enter the user's first and last names.
@@ -45,5 +45,3 @@ For this process, all activities are done by the EZproxy administrator.
 21. Place the file's password in an encrypted LastPass file for safe keeping.
 22. Email the usernames and passwords to the program coordinator.
 23. Call the program coordinator and tell them the password over the phone.
-
-<sub>1</sup> See the head of the DRDS department for the URL where EZproxy can be restarted.

@@ -21,7 +21,7 @@ At the beginning of each semester, complete either *Using the Template* or *From
 1. Click *Add New Event*.
 1. Select *Carpentries Workshops*.
 1. Click *Continue*.
-1. Select the correct starting date.
+1. Select the correct starting date and times.
 1. Check *This Event Repeats* and add dates as appropriate.
 1. There are two descriptions in *Event Description*: one for Data Carpentry workshops and one for Software Carpentry workshops. Delete the appropriate *Event Description*.
 1. Select *Carpentries @ Oklahoma State University by Kay Bjornen* as the *Related LibGuide*.

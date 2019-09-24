@@ -20,6 +20,7 @@ An updated *What Goes Where* table.
 #### Roles
 - Content Administrator: This person keeps the html table up to date on GitHub.
 - Site Administrator: This person copies HTML from GitHub into the appropriate widget in the LibGuide.
+
 `The entire workflow can be completed by one person if they have write priveledges in both LibGuides and GitHub.`
 
 #### Activities

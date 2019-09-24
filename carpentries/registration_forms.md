@@ -13,9 +13,27 @@ The individual needs access to LibCal in LibApps.
 - Individual charged with creating workshop websites.
 
 #### Activities
+##### Using the Template
 1. Open LibCal and click *Calendars*.
 1. Click *Library Workshops*.
 1. Click *Add New Event*.
+1. Select *Carpentries Workshops*.
+1. Click *Continue*.
+1. Select the correct starting date.
+1. There are two descriptions in *Event Description*: one for Data Carpentry workshops and one for Software Carpentry workshops. Delete the appropriate *Event Description*.
+1. Select *Carpentries @ Oklahoma State University by Kay Bjornen* as the *Related LibGuide*.
+1. Select the location (most workshops will be in *Computer Training Room 206, 2nd Floor, Edmon Low Library*.
+1. Click *Submit: Add New Event!*.
+1. Return to *Library Workshops* and click on the new event in the calendar.
+1. Copy *Event URL:* and send it to the person setting up the workshop website.
+1. You can click the blue *Manage Event* button to manage attendees and the waitlist.
+
+##### From Scratch
+1. Open LibCal and click *Calendars*.
+1. Click *Library Workshops*.
+1. Click *Add New Event*.
+1. Select *Create From Scratch*.
+1. Click *Continue*
 1. Select the *Date*, *Start Time*, and *End Time*. Don't add padding.
 1. All workshops span multiple days. Check *This Event Repeats* and fill in the appropriate information based on the workshops format (some workshops are two days back to back, and some workshops are half-day workshops across four Fridays).
 1. Title the workshop (e.g., Data Carpentry Workshop or Software Carpentry Workshop)
@@ -37,6 +55,10 @@ The individual needs access to LibCal in LibApps.
 1. Set *Send Follow-up Email/Survey* to *1 day after Event*.
 1. Add a line to the *Follow-up Email Body* with a reminder for participants to fill out the Post-Workshop Survey on the workshop website if they have not done so already.
 1. Set *Status* to *Publish*.
-1. Click *Save* to publish.
+1. Click *Submit: Add New Event!*.
+1. Return to *Library Workshops* and click on the new event in the calendar.
+1. Copy *Event URL:* and send it to the person setting up the workshop website.
+1. You can click the blue *Manage Event* button to manage attendees and the waitlist.
+
 
 

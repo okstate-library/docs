@@ -20,10 +20,11 @@ The individual needs access to LibCal in LibApps.
 1. Select *Carpentries Workshops*.
 1. Click *Continue*.
 1. Select the correct starting date.
+1. Check *This Event Repeats* and add dates as appropriate.
 1. There are two descriptions in *Event Description*: one for Data Carpentry workshops and one for Software Carpentry workshops. Delete the appropriate *Event Description*.
 1. Select *Carpentries @ Oklahoma State University by Kay Bjornen* as the *Related LibGuide*.
 1. Select the location (most workshops will be in *Computer Training Room 206, 2nd Floor, Edmon Low Library*.
-1. Click *Submit: Add New Event!*.
+1. Click *Submit: Add New Event!*
 1. Return to *Library Workshops* and click on the new event in the calendar.
 1. Copy *Event URL:* and send it to the person setting up the workshop website.
 1. You can click the blue *Manage Event* button to manage attendees and the waitlist.
@@ -55,7 +56,7 @@ The individual needs access to LibCal in LibApps.
 1. Set *Send Follow-up Email/Survey* to *1 day after Event*.
 1. Add a line to the *Follow-up Email Body* with a reminder for participants to fill out the Post-Workshop Survey on the workshop website if they have not done so already.
 1. Set *Status* to *Publish*.
-1. Click *Submit: Add New Event!*.
+1. Click *Submit: Add New Event!*
 1. Return to *Library Workshops* and click on the new event in the calendar.
 1. Copy *Event URL:* and send it to the person setting up the workshop website.
 1. You can click the blue *Manage Event* button to manage attendees and the waitlist.

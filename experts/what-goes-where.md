@@ -7,7 +7,7 @@ The *What Goes Where* table provides a list of scenarios for researchers to dete
 The table is on the Experts Directory website in the [documentation section for researchers](https://info.library.okstate.edu/expert-researcher). It implements the [Bootstrap HTML Table](https://examples.bootstrap-table.com/#welcomes/from-html.html).
 
 #### Boundaries
-Whenever entries in the table need to be added or changed, someone can edit the file on GitHub. This keeps the table version controlled and allows to roll back changes. HTML is pasted from GitHub to the LibGuid widget on the Experts site.
+Whenever entries in the table need to be added or changed, someone can edit the file on GitHub. This keeps the table version controlled and allows to roll back changes. HTML is pasted from GitHub to the LibGuide widget on the Experts site.
 
 #### Outputs
 An updated *What Goes Where* table.
@@ -20,7 +20,7 @@ An updated *What Goes Where* table.
 #### Roles
 - Content Administrator: This person keeps the html table up to date on GitHub.
 - Site Administrator: This person copies HTML from GitHub into the appropriate widget in the LibGuide.
-`The entire workflow can be completed by one person if they have write privledges in both LibGuides and GitHub.`
+`The entire workflow can be completed by one person if they have write priveledges in both LibGuides and GitHub.`
 
 #### Activities
 ##### Updating Table

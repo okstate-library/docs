@@ -13,6 +13,8 @@ The individual needs access to LibCal in LibApps.
 - Individual charged with creating workshop websites.
 
 #### Activities
+At the beginning of each semester, complete either *Using the Template* or *From Scratch* for each workshop that semester. Unless you need to heavily customize the registration form, I recommend you use the template.
+
 ##### Using the Template
 1. Open LibCal and click *Calendars*.
 1. Click *Library Workshops*.

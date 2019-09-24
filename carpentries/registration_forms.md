@@ -1,6 +1,6 @@
 ### Setting Up Registration Forms
 
-#### Registration forms should be set up at the beginning of each semester once dates have been determined. The person setting up the registration forms will give the registration links to the individual charged with setting up workshop websites.
+Registration forms should be set up at the beginning of each semester once dates have been determined. The person setting up the registration forms will give the registration links to the individual charged with setting up workshop websites.
 
 #### Outputs
 This process produces registration forms for each workshop in a given semester.
@@ -28,5 +28,15 @@ The individual needs access to LibCal in LibApps.
 1. Select the *Event Organizer*.
 1. Type `30` for the *Anticipated Attendance*.
 1. Ensure *Registration is required* is checked.
-1. 
+1. Input *Maximum registrations/seats*. The maximum registration we allow for room 206 is 30.
+1. Select *Carpentries* as the *Registration Form*.
+1. Set *Registrations Open* to *4 weeks before*.
+1. Set *Registrations Close* to *24 hours before*.
+1. Check *Enable a waiting list when fully booked*.
+1. Set *Send Email Reminder* to *4 days before Event*.
+1. Set *Send Follow-up Email/Survey* to *1 day after Event*.
+1. Add a line to the *Follow-up Email Body* with a reminder for participants to fill out the Post-Workshop Survey on the workshop website if they have not done so already.
+1. Set *Status* to *Publish*.
+1. Click *Save* to publish.
+
 

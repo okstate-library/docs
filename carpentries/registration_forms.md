@@ -23,6 +23,7 @@ At the beginning of each semester, complete either *Using the Template* or *From
 1. Click *Continue*.
 1. Select the correct starting date and times.
 1. Check *This Event Repeats* and add dates as appropriate.
+1. Change the *Event Title* to *Software Carpentry Workshop* if appropriate.
 1. There are two descriptions in *Event Description*: one for Data Carpentry workshops and one for Software Carpentry workshops. Delete the appropriate *Event Description*.
 1. Select *Carpentries @ Oklahoma State University by Kay Bjornen* as the *Related LibGuide*.
 1. Select the location (most workshops will be in *Computer Training Room 206, 2nd Floor, Edmon Low Library*.

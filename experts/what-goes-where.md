@@ -1,20 +1,20 @@
 ### Modifying the *What Goes Where* Table
 
 ##### Background
-The *What Goes Where* table provides a list of scenarios for researchers to determine how to label different academic outputs when entering the information into the Experts Directory. This allows for consistent reporting data across all OSU departments. The table has three columns: *Professional Activity*, *Activity Type*, and *Field*. The first column contains descriptions of different activities done by researchers at OSU. The second column gives the general category that activity falls under. The third column contains the field the researcher should use within the Elements software to report that activity.
+The *What Goes Where* table provides a list of scenarios for researchers to determine how to label different academic outputs when entering the information into the Experts Directory. This allows for consistent reporting of data across all OSU departments. The table has three columns: *Professional Activity*, *Activity Type*, and *Field*. The first column contains descriptions of different activities done by researchers at OSU. The second column gives the general category that activity falls under. The third column contains the field the researcher should use within the Elements software to report that activity.
 
 ##### Implementation
 The table is on the Experts Directory website in the [documentation section for researchers](https://info.library.okstate.edu/expert-researcher). It implements the [Bootstrap HTML Table](https://examples.bootstrap-table.com/#welcomes/from-html.html).
 
 #### Boundaries
-Whenever entries in the table need to be added or changed, someone can edit the file on GitHub. This keeps the table version controlled and allows to roll back changes. HTML is pasted from GitHub to the LibGuide widget on the Experts site.
+Whenever entries in the table need to be added or changed, someone can edit the file on GitHub. This keeps the table version controlled. It also allows editors to roll back changes. HTML is pasted from GitHub to the LibGuide widget on the Experts site.
 
 #### Outputs
 An updated *What Goes Where* table.
 
 #### Inputs
 - Administrative access to the Experts LibGuide.
-  - The table is on the Experts Directory website in the [documentation section for researchers](https://info.library.okstate.edu/expert-researcher)
+  - The table is on the Experts Directory website in the [documentation section for researchers](https://info.library.okstate.edu/expert-researcher).
 - Push access to the [html file](https://github.com/okstate-library/what-goes-where/blob/master/What-Goes-Where.html) on GitHub.
 
 #### Roles
@@ -29,7 +29,7 @@ An updated *What Goes Where* table.
 1. The site administrator copies the HTML into the widget on the LibGuide.
 
 #### Adding Rows
-When adding rows, please use the following conventions so the search function in the table works properly.
+When adding a row to the HTML table, please use the following syntax so the search capability works properly.
 
 ```html
 <tr id="tr-id-ROWNUMBERHERE" class="tr-class-ROWNUMBERHERE">

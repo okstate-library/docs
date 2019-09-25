@@ -15,7 +15,7 @@ An updated *What Goes Where* table.
 #### Inputs
 - Administrative access to the Experts LibGuide.
   - The table is on the Experts Directory website in the [documentation section for researchers](https://info.library.okstate.edu/expert-researcher).
-- Push access to the [html file](https://github.com/okstate-library/what-goes-where/blob/master/What-Goes-Where.html) on GitHub.
+- Push access to the [html file](https://github.com/okstate-library/docs/blob/master/experts/what-goes-where.md) on GitHub.
 
 #### Roles
 - Content Administrator: This person keeps the html table up to date on GitHub.

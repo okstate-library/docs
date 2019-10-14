@@ -13,30 +13,9 @@ The individual needs access to LibCal in LibApps.
 - Individual charged with creating workshop websites.
 
 #### Activities
-At the beginning of each semester, complete either *Using the Template* or *From Scratch* for each workshop that semester. Unless you need to heavily customize the registration form, I recommend you use the template.
-
-##### Using the Template
 1. Open LibCal and click *Calendars*.
 1. Click *Library Workshops*.
-1. Click *Add New Event*.
-1. Select *Carpentries Workshops*.
-1. Click *Continue*.
-1. Select the correct starting date and times.
-1. Check *This Event Repeats* and add dates as appropriate.
-1. Change the *Event Title* to *Software Carpentry Workshop* if appropriate.
-1. There are two descriptions in *Event Description*: one for Data Carpentry workshops and one for Software Carpentry workshops. Delete the appropriate *Event Description*.
-1. Select *Carpentries @ Oklahoma State University by Kay Bjornen* as the *Related LibGuide*.
-1. In *Friendly URL*, put YYYY-MM-DD-okstate; YYYY-MM-DD indicates the date of the first day of the workshop in the indicated format.
-1. Select the location (most workshops will be in *Computer Training Room 206, 2nd Floor, Edmon Low Library*.
-1. Click *Submit: Add New Event!*
-1. Return to *Library Workshops* and click on the new event in the calendar.
-1. Copy *Event URL:* and send it to the person setting up the workshop website.
-1. You can click the blue *Manage Event* button to manage attendees and the waitlist.
-
-##### From Scratch
-1. Open LibCal and click *Calendars*.
-1. Click *Library Workshops*.
-1. Click *Add New Event*.
+1. Click *Library Events*.
 1. Select *Create From Scratch*.
 1. Click *Continue*
 1. Select the *Date*, *Start Time*, and *End Time*. Don't add padding.
@@ -50,20 +29,48 @@ At the beginning of each semester, complete either *Using the Template* or *From
 1. Select the location (most workshops will be in *Computer Training Room 206, 2nd Floor, Edmon Low Library*.
 1. Select the *Event Organizer*.
 1. Type `30` for the *Anticipated Attendance*.
+1. Select `Public Program` and `Instruction` in *Category*.
 1. Ensure *Registration is required* is checked.
 1. Input *Maximum registrations/seats*. The maximum registration we allow for room 206 is 30.
 1. Select *Carpentries* as the *Registration Form*.
 1. Set *Registrations Open* to *4 weeks before*.
 1. Set *Registrations Close* to *24 hours before*.
 1. Check *Enable a waiting list when fully booked*.
-1. Set *Send Email Reminder* to *4 days before Event*.
-1. Set *Send Follow-up Email/Survey* to *1 day after Event*.
+1. Set *Send Email Reminder* to *4 days before Event* (see below for text to paste into *Reminder Email Body*.
+1. Set *Send Follow-up Email/Survey* to *1 day after Event* (see below for text to paste into *Follow-up Email Body*.
 1. Add a line to the *Follow-up Email Body* with a reminder for participants to fill out the Post-Workshop Survey on the workshop website if they have not done so already.
-1. Set *Status* to *Publish*.
+1. Set *Status* to *Submit for Review*.
 1. Click *Submit: Add New Event!*
-1. Return to *Library Workshops* and click on the new event in the calendar.
-1. Copy *Event URL:* and send it to the person setting up the workshop website.
+1. Click on the event in the *Library Events* calendar.
+1. Copy *Event URL:* and send it to the person setting up the workshop website so they can add a registration link.
 1. You can click the blue *Manage Event* button to manage attendees and the waitlist.
 
+##### Reminder Email Body
+Paste this exact text into the *Reminder Email Body* field. **Only change the series of X's, i.e. XXXXXXXXXX, with the relevant URLs from the workshop webpage***.
+```
+Hi {{FIRST_NAME}}, 
+			
+This is a reminder that {{TITLE}} starts at {{START_TIME}}, {{DATE}} at {{LOCATION}}.
+
+Workshop webpage: XXXXXXXXXXXXXXX
+
+Please make sure to install the necessary software before attending the workshop: XXXXXXXXXXXXXXX#setup. Instructors will be available starting at 8:30 a.m. to answer installation questions.
+
+Before coming to the workshop, please complete the pre-workshop survey: XXXXXXXXXXXXXXXXXXXX.
+
+To cancel this registration visit: {{{CANCEL_URL}}}.{{#REGISTRATION_COST}}
+```
+
+##### Follow-up Email Body
+Paste this exact text into the *Follow-up Email Body* field. **Only change the series of X's, i.e. XXXXXXXXXX, with the relevant URLs from the workshop webpage***.
+```
+Hi {{FIRST_NAME}}, 
+			
+Thank you for attending {{TITLE}}. 
+
+If you have not done so already, please complete the Post-Workshop survey: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+
+If you have any further questions about this event, please contact {{OWNER_NAME}} via {{{OWNER_EMAIL}}}.
+```
 
 

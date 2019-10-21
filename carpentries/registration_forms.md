@@ -36,6 +36,8 @@ The individual needs access to LibCal in LibApps.
 1. Set *Registrations Open* to *4 weeks before*.
 1. Set *Registrations Close* to *24 hours before*.
 1. Check *Enable a waiting list when fully booked*.
+1. Check *Seris link registration* (this creates one registration form when a workshop spans multiple days).
+1. Check *Enable registration until the last event in series*.
 1. Set *Send Email Reminder* to *4 days before Event* (see below for text to paste into *Reminder Email Body*.
 1. Set *Send Follow-up Email/Survey* to *1 day after Event* (see below for text to paste into *Follow-up Email Body*.
 1. Add a line to the *Follow-up Email Body* with a reminder for participants to fill out the Post-Workshop Survey on the workshop website if they have not done so already.

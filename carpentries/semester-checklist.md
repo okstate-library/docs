@@ -1,5 +1,5 @@
 # Semester Checklist
-One month before the end of each semester, the following logistics need to be in place.
+One month before the end of each semester, the following logistics need to be in place. It is ideal if volunteer coordination is in place, but that depend on the response of volunteers. The Coordinating Volunteers section has due dates when each item must be completed by.
 # Logistics
 - [ ] Set workshop dates.
   - We currently offer workshops just before and after a semester. We also offer a workshop during the mid-semester (Fall/Spring) break.
@@ -13,6 +13,9 @@ One month before the end of each semester, the following logistics need to be in
     - Both the "Description" and "Website" fields at the top of the repo must be populated. Click the "Edit" button at the top-righthand corner—just under "Settings"—to edit these fields. Paste the URL for the live workshop website into "Website." In "Description," label the workshop appropriately: "Software Carpentry Workshop" or "Data Carpentry Workshop." The script uses all three pieces of information to create an entry for each workshop on the landing page.
   - Do not fill in the "Description" and "Website" fields until you are ready for the site to be linked live from the landing page.
 - [ ] Set up [registration forms](https://info.library.okstate.edu/c.php?g=970224) for each workshop.
+- [ ] Use the URL from the registration form to create a registration button on each workshop webpage.
+  - Our registration button is a custom item. Copy the HTML from a previous workshop, the [November 2019](https://osu-carpentry.github.io/2019-11-01-okstate/) workshop for example.
+  - Use the URL for the registration you just created instead of the previous workshop's URL.
 
 # Coordinating Volunteers
 - [ ] Get commitments from certified instructors for teaching roles.

@@ -14,10 +14,33 @@ One month before the end of each semester, the following logistics need to be in
   - Do not fill in the "Description" and "Website" fields until you are ready for the site to be linked live from the landing page.
 - [ ] Set up [registration forms](https://info.library.okstate.edu/c.php?g=970224) for each workshop.
 - [ ] Use the URL from the registration form to create a registration button on each workshop webpage.
-  - Our registration button is a custom item. Copy the HTML from a previous workshop, the [November 2019](https://osu-carpentry.github.io/2019-11-01-okstate/) workshop for example.
-  - Use the URL for the registration you just created instead of the previous workshop's URL.
+  - Our registration button is a custom item. Use the code below.
+  - Paste the code into `index.md` for the workshop website. Paste it after the Eventbrite widget code and before the General Information heading.
 
 # Coordinating Volunteers
 - [ ] Get commitments from certified instructors for teaching roles.
   - Try to get commitments before the beginning of the semester. Make sure to remind volunteers at monthly meetings if there are unfilled teaching opportunities once the semester begins.
 - [ ] 
+
+# Appendix
+## Button Code
+Use this code for the registration button on workshop webpages.
+
+```html
+<p><a id="s_lc_event_5584425" href="REGISTRATION URL GOES BETWEEN THESE QUOTES">CLICK TO REGISTER</a>
+<!-- Below is optional element styling  //--></p>
+<style>
+#s_lc_event_5584425 {
+  background: #FF6600;
+  border: 1px solid #DFDFDF;
+  border-radius: 4px;
+  color: white;
+  font: 18px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_5584425:hover {
+  opacity: 0.9;
+}
+</style>
+```

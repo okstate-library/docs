@@ -43,7 +43,7 @@ The individual needs access to LibCal in LibApps.
 1. Set *Status* to *Submit for Review*.
 1. Click *Submit: Add New Event!*
 1. Click on the event in the *Library Events* calendar.
-1. Copy *Event URL:* and send it to the person setting up the workshop website so they can add a registration link.
+1. Copy *Event URL:* and use the URL to add a registration button to the workshop webpage.
 1. You can click the blue *Manage Event* button to manage attendees and the waitlist.
 
 ##### Reminder Email Body

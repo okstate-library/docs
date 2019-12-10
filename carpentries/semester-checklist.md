@@ -12,6 +12,7 @@ One month before the end of each semester, the following logistics need to be in
     - The repo title must follow the format `YYYY-MM-DD-okstate`.
     - Both the "Description" and "Website" fields at the top of the repo must be populated. Click the "Edit" button at the top-righthand corner—just under "Settings"—to edit these fields. Paste the URL for the live workshop website into "Website." In "Description," label the workshop appropriately: "Software Carpentry Workshop" or "Data Carpentry Workshop." The script uses all three pieces of information to create an entry for each workshop on the landing page.
   - Do not fill in the "Description" and "Website" fields until you are ready for the site to be linked live from the landing page.
+- [ ] Set up [registration forms](https://info.library.okstate.edu/c.php?g=970224) for each workshop.
 
 # Coordinating Volunteers
 - [ ] Get commitments from certified instructors for teaching roles.

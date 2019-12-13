@@ -18,6 +18,8 @@ One month before the end of each semester, the following logistics need to be in
   - Paste the code into `index.md` for the workshop website. Paste it after the Eventbrite widget code and before the General Information heading.
 - [ ] Set up the [workshop Etherpad](https://tiger.hpc.okstate.edu/sites/etherpad/).
   - Name the Etherpad using the `YYYY-MM-DD-okstate` convention.
+  - Copy the URL from the newly created Etherpad and paste it after `collaborative_notes:` in the preamble at the top of `index.md`.
+
 
 # Coordinating Volunteers
 - [ ] Get commitments from certified instructors for teaching roles.

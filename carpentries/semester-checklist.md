@@ -16,6 +16,8 @@ One month before the end of each semester, the following logistics need to be in
 - [ ] Use the URL from the registration form to create a registration button on each workshop webpage.
   - Our registration button is a custom item. Use the code below.
   - Paste the code into `index.md` for the workshop website. Paste it after the Eventbrite widget code and before the General Information heading.
+- [ ] Set up the [workshop Etherpad](https://tiger.hpc.okstate.edu/sites/etherpad/).
+  - Name the Etherpad using the `YYYY-MM-DD-okstate` convention.
 
 # Coordinating Volunteers
 - [ ] Get commitments from certified instructors for teaching roles.

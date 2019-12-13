@@ -14,7 +14,6 @@ The individual needs access to LibCal in LibApps.
 
 #### Activities
 1. Open LibCal and click *Calendars*.
-1. Click *Library Workshops*.
 1. Click *Library Events*.
 1. Click *Add New Event*.
 1. Select *Create From Scratch*.

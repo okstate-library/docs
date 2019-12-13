@@ -37,8 +37,8 @@ The individual needs access to LibCal in LibApps.
 1. Set *Registrations Close* to *24 hours before*.
 1. Check *Enable a waiting list when fully booked*.
 1. Check *Series link registration* (this creates one registration form when a workshop spans multiple days).
-1. Set *Send Email Reminder* to *4 days before Event* (see below for text to paste into *Reminder Email Body*.
-1. Set *Send Follow-up Email/Survey* to *1 day after Event* (see below for text to paste into *Follow-up Email Body*.
+1. Set *Send Email Reminder* to *4 days before Event* (see below for text to paste into *Reminder Email Body*).
+1. Set *Send Follow-up Email/Survey* to *1 day after Event* (see below for text to paste into *Follow-up Email Body*).
 1. Set *Status* to *Submit for Review*.
 1. Click *Submit: Add New Event!*
 1. Click on the event in the *Library Events* calendar.

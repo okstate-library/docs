@@ -19,12 +19,21 @@ One month before the end of each semester, the following logistics need to be in
 - [ ] Set up the [workshop Etherpad](https://tiger.hpc.okstate.edu/sites/etherpad/).
   - Name the Etherpad using the `YYYY-MM-DD-okstate` convention.
   - Copy the URL from the newly created Etherpad and paste it after `collaborative_notes:` in the preamble at the top of `index.md`.
+- [ ] Fill out the workshop request form to let the Carpentries organization know about the workshop.
+  - Since we are a member organization, we self-host workshops. The registration form for self-hosted workshops is [here](https://amy.carpentries.org/forms/self-organised/).
 
 
-# Coordinating Volunteers
+# Coordinating Volunteers and Participants
 - [ ] Get commitments from certified instructors for teaching roles.
   - Try to get commitments before the beginning of the semester. Make sure to remind volunteers at monthly meetings if there are unfilled teaching opportunities once the semester begins.
-- [ ] 
+- [ ] Get commitments from helpers for workshops.
+  - Try to get commitments before the beginning of the semester. Make sure to remind volunteers at monthly meetings if there are unfilled teaching opportunities once the semester begins.
+- [ ] Once the workshop webpages are linked from the [OSU landing page](https://osu-carpentry.github.io/), contact anyone who was on a waitlist in the current semester and notify them of the dates for next semester.
+- [ ] Advertise the workshops
+  - Give Communications the dates for next semester's workshops and set mailings to go out one month before the workshop.
+  - Contact [Kate Adams](mailto:kate@greatplains.net) to let her know next semester's workshop dates.
+  - Submit all the workshops to the [OSU Calendar](https://calendar.okstate.edu/) by clicking on "Submit Event." You will need to submit for each individual workshop.
+  - Contact Jennifer Borland
 
 # Appendix
 ## Button Code

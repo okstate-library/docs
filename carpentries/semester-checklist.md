@@ -33,7 +33,7 @@ One month before the end of each semester, the following logistics need to be in
   - Give Communications the dates for next semester's workshops and set mailings to go out one month before the workshop.
   - Contact [Kate Adams](mailto:kate@greatplains.net) to let her know next semester's workshop dates.
   - Submit all the workshops to the [OSU Calendar](https://calendar.okstate.edu/) by clicking on "Submit Event." You will need to submit for each individual workshop.
-  - Contact Jennifer Borland
+  - Contact [Jennifer Borland](mailto:jennifer.borland@okstate.edu) who runs the Digital Humanities mailing list and let her know the dates of upcoming workshops.
 
 # Appendix
 ## Button Code

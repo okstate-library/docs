@@ -1,5 +1,6 @@
 # Semester Checklist
-One month before the end of each semester, the following logistics need to be in place. It is ideal if volunteer coordination is in place, but that depend on the response of volunteers. The Coordinating Volunteers section has due dates when each item must be completed by.
+One month before the end of each semester, the following logistics need to be in place. It is ideal if volunteer coordination is in place, but that depend on the response of volunteers. Try to have items in the Coordinating Volunteers and Participants section completed as soon as is practically possible.
+
 # Logistics
 - [ ] Set workshop dates.
   - We currently offer workshops just before and after a semester. We also offer a workshop during the mid-semester (Fall/Spring) break.

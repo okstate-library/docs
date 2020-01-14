@@ -46,29 +46,29 @@ The individual needs access to LibCal in LibApps.
 1. You can click the blue *Manage Event* button to manage attendees and the waitlist.
 
 ##### Reminder Email Body
-Paste this exact text into the *Reminder Email Body* field. **Only change the series of X's, i.e. XXXXXXXXXX, with the relevant URLs from the workshop webpage***.
+Paste this exact text into the *Reminder Email Body* field. **Only change the CAPITALIZED TEXT THAT IS NOT IN BRACKETS (`{}`) with the relevant URLs from the workshop webpage***.
 ```
 Hi {{FIRST_NAME}}, 
 			
 This is a reminder that {{TITLE}} starts at {{START_TIME}}, {{DATE}} at {{LOCATION}}.
 
-Workshop webpage: XXXXXXXXXXXXXXX
+Workshop webpage: REPLACE THIS TEXT WITH THE WORKSHOP WEBPAGE URL
 
-Please make sure to install the necessary software before attending the workshop: XXXXXXXXXXXXXXX#setup. Instructors will be available starting at 8:30 a.m. to answer installation questions.
+Please make sure to install the necessary software before attending the workshop: REPLACE THIS TEXT WITH THE WORKSHOP URL (NO SPACE BETWEEN THE URL AND THE FOLLOWING POUND--`#`--SYMBOL)#setup. Instructors will be available starting at 8:30 a.m. to answer installation questions.
 
-Before coming to the workshop, please complete the pre-workshop survey: XXXXXXXXXXXXXXXXXXXX.
+Before coming to the workshop, please complete the pre-workshop survey: REPLACE THIS TEXT WITH WORKSHOP WEBSITE, PRE-WORKSHOP SURVEY LINK
 
 To cancel this registration visit: {{{CANCEL_URL}}}.{{#REGISTRATION_COST}}
 ```
 
 ##### Follow-up Email Body
-Paste this exact text into the *Follow-up Email Body* field. **Only change the series of X's, i.e. XXXXXXXXXX, with the relevant URLs from the workshop webpage***.
+Paste this exact text into the *Follow-up Email Body* field. **Only change the CAPITALIZED TEXT THAT IS NOT IN BRACKETS (`{}`) with the relevant URLs from the workshop webpage***.
 ```
 Hi {{FIRST_NAME}}, 
 			
 Thank you for attending {{TITLE}}. 
 
-If you have not done so already, please complete the Post-Workshop survey: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+If you have not done so already, please complete the Post-Workshop survey: REPLACE THIS TEXT WITH WORKSHOP WEBSITE, POST-WORKSHOP SURVEY LINK
 
 If you would like to be a Carpentries volunteer, or if you do not want to be added to the Carpentries mailing list, please contact {{OWNER_NAME}} via {{{OWNER_EMAIL}}}.
 ```

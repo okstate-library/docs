@@ -68,9 +68,9 @@ Hi {{FIRST_NAME}},
 			
 Thank you for attending {{TITLE}}. 
 
-If you have not done so already, please complete the Post-Workshop survey: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+If you have not done so already, please complete the Post-Workshop survey: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-If you have any further questions about this event, please contact {{OWNER_NAME}} via {{{OWNER_EMAIL}}}.
+If you would like to be a Carpentries volunteer, or if you do not want to be added to the Carpentries mailing list, please contact {{OWNER_NAME}} via {{{OWNER_EMAIL}}}.
 ```
 
 

@@ -2,14 +2,15 @@
 EZproxy uses OSU's central authentication to authenticate most of its users. For special case, e.g., temporary programs or students in remote programs, etc., we create local users.
 
 #### Boundaries
-The process begins when a patron who does not have typical OKEY credentials needs access to library resources.
+The process begins when a patron does not have OKEY credentials and needs access to library resources.
 
 #### Outputs
-Local accounts in EZproxy and temporary accounts in Alma. A user should use the same username and password across all library resources.
+This process produces local accounts in EZproxy and temporary accounts in Alma. A user should use the same username and password across all library resources.
 
 #### Inputs
 1. Access to EZproxy's `LocalAccounts.txt` file.
-2. A role in Alma that allows for the creation of temporary accounts.
+1. A role in Alma that allows for the creation of temporary accounts.
+1. The Python script `local_accounts.py` from [this repository](https://github.com/okstate-library/local_accounts).
 
 #### Roles
 - EZproxy administrator
@@ -48,6 +49,7 @@ For this process, all activities are done by the EZproxy administrator.
 1. Click *Done*.
 
 #### Clean Up
+1. Do a spot check by randomly picking several accounts and testing that they work in both [Primo Affiliated Users](https://okla-am.hosted.exlibrisgroup.com/pds?func=load-login&pds_handle=&calling_system=primo&institute=01OKSTATESTILL_OKSTAT&url=https://okla-am.hosted.exlibrisgroup.com:443/primo_library/libweb/pdsLogin?targetURL=https%3A%2F%2Fokla-am%2Ehosted%2Eexlibrisgroup%2Ecom%2Fprimo-explore%2Faccount%3Fvid%3DOKSTAT&section=overview&lang=en%5FUS&from-new-ui=1&authenticationProfile=PDS+Stillwater) and [EZproxy](https://library.okstate.edu/using-the-library/anywhere-library-access).
 1. Open `special_accounts.csv` in Excel.
 1. The CSV contains passwords. Use Excel to save the sheet as a password-protected Excel sheet.
 1. Save the master password for the sheet in a password manager for safe keeping.

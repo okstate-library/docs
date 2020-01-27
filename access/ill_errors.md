@@ -16,8 +16,7 @@ There are several roles within DRDS-DLS, and the responsible person depends on t
 #### Activities
 1. When you get an email request from ILL, begin by opening `Bad Links Email Log.xlsx`.
 1. Check to see if the email has already been posted by someone else.
-1. If not, copy your name into the `Recipient` column.
-1. Copy the email date/time, subject line, and sender into the appropriate columns.
+1. If not, copy the email date/time, subject line, and sender into the appropriate columns.
 1. If you know the person who can resolve the problem, put their name in `Assigned to`.
 1. If the relevant person was not included on the original email, forward it on to them.
 1. Give the new entry a status: `Open`, `Closed`, or `Pending`.

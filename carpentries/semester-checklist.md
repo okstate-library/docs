@@ -5,7 +5,7 @@ One month before the end of each semester, the following logistics need to be in
 - [ ] Set workshop dates.
   - We currently offer workshops just before and after a semester. We also offer a workshop during the mid-semester (Fall/Spring) break.
 - [ ] Book room for selected dates.
-  - Use [Room Bookings](https://okstate.libcal.com/booking/conference-rooms) to book room 206. for the selected dates.
+  - Use [Room Bookings](https://okstate.libcal.com/booking/conference-rooms) to book room 206. for the selected dates (max capacity is 42).
   - Workshops typically run from 8:30 a.m.–4:00 p.m. Be sure to pad start and end times when you book.
 - [ ] Set up workshop webpages for each workshop.
   - You will need to clone the [Carpentries Workshop Template](https://github.com/carpentries/workshop-template) into [OSU Carpentries](https://github.com/OSU-Carpentry) organizational account on GitHub. Be sure to follow the [directions](https://github.com/carpentries/workshop-template/blob/gh-pages/README.md) they have provided carefully. **Carpentries frequently updates the Workshop Template and instructions. It is important to re-clone a fresh copy of this repo each time this process is done. Don't be tempted to clone one of our previous workshops to avoid entering workshop details.** This often leads to errors and causes software installation instructions to fall out of date.
@@ -24,7 +24,7 @@ One month before the end of each semester, the following logistics need to be in
 - [ ] Fill out the workshop request form to let the Carpentries organization know about the workshop.
   - Since we are a member organization, we self-host workshops. The registration form for self-hosted workshops is [here](https://amy.carpentries.org/forms/self-organised/).
 - [ ] Don't forget to update the description at the top of the repo for the landing-page script to work.
-- [ ] Set reminders in the Carpentries Outlook calendar for pre-workshop meetings, post-workshop meetings, monthly meetings (once responses are in from the poll), workshops, and meeting to go through this process again at the end of the semester.
+- [ ] Set reminders in the Carpentries Outlook calendar for [pre-workshop meetings](https://info.library.okstate.edu/c.php?g=970224), [post-workshop meetings](https://info.library.okstate.edu/c.php?g=970224), [monthly meetings](https://info.library.okstate.edu/c.php?g=970224) (once responses are in from the poll), workshops, and meeting to go through this process again at the end of the semester.
 
 
 # Coordinating Volunteers and Participants

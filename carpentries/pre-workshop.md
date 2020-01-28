@@ -16,7 +16,7 @@ This is the checklist for the pre-workshop meeting. This meeting should take pla
 
 ### 24 Hours Out
 - Download and print attendance sheet from LibApps.
-- Print Walk-In Sign-Up Sheet.
+- Print [Walk-In Sign-Up Sheet](https://osf.io/6kv5w/).
 
 ### Parking Instructions
 Use the below boilerplate parking directions and parking map [here](https://mfr.osf.io/render?url=https://osf.io/swy9k/?direct%26mode=render%26action=download%26mode=render) to send an email to non-OSU participants.

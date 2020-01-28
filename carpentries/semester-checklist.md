@@ -24,6 +24,7 @@ One month before the end of each semester, the following logistics need to be in
 - [ ] Fill out the workshop request form to let the Carpentries organization know about the workshop.
   - Since we are a member organization, we self-host workshops. The registration form for self-hosted workshops is [here](https://amy.carpentries.org/forms/self-organised/).
 - [ ] Don't forget to update the description at the top of the repo for the landing-page script to work.
+- [ ] Set reminders in the Carpentries Outlook calendar for pre-workshop meetings, post-workshop meetings, monthly meetings (once responses are in from the poll), workshops, and meeting to go through this process again at the end of the semester.
 
 
 # Coordinating Volunteers and Participants

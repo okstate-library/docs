@@ -16,3 +16,4 @@ This is the checklist for the pre-workshop meeting. This meeting should take pla
 
 ### 24 Hours Out
 - Download and print attendance sheet from LibApps.
+- Print Walk-In Sign-Up Sheet.

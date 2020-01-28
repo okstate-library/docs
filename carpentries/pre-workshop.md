@@ -1,8 +1,7 @@
 ### Pre-Workshop Meeting
-This is the checklist for the pre-workshop meeting. This meeting should take place at least one week before the workshop.
+This is the checklist for the pre-workshop meeting. This meeting should take place at least one week before the workshop, and each item should be assigned to be completed by someone at the proper time.
 
 ### One Week Out
-- Meet and make sure someone is attending to each item on this list (Set calendar reminders on Carpentries Outlook calendar if need be).
 - LibApps will automatically send out a reminder to participants.
 - Designate a library employee to open room 206 at 8:30 a.m. on the day of.
 - Make sure coffee and donuts are good to go.

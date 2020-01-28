@@ -5,6 +5,7 @@
 - Make sure coffee and donuts are good to go.
 - Designate someone to bring green and red sticky notes.
 - Get guest Wifi credentials
+- One last call for helpers if there are not enough.
 - Arrange parking permits.
 - Reach out the non-OSU participants with parking instructions.
 

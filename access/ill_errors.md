@@ -7,7 +7,7 @@ If all goes well, this process results in a resolved access issue that is report
 
 #### Inputs
 - Email from ILL with information on resource that is not working.
-- Log file of issues and their resolution status on the shared V drive: `V:\Bad Links\Bad Links Email Log.xlsx`.
+- Log file of issues and their resolution status on the shared V drive: `T:\Digitization\Tickets_DRDS\Bad Links Email Log.xlsx`.
 - Administrative access to the system causing the error.
 
 #### Roles

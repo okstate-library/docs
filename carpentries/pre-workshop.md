@@ -9,7 +9,7 @@ This is the checklist for the pre-workshop meeting. This meeting should take pla
 - Get guest Wifi credentials
 - One last call for helpers if there are not enough.
 - Arrange parking permits.
-- Reach out the non-OSU participants with parking instructions (see below).
+- Reach out to non-OSU participants with [parking instructions](https://info.library.okstate.edu/carpentry#s-lg-box-wrapper-24219102).
 - Turn on the feedback form.
 
 ### 48 Hours Out

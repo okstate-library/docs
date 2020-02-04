@@ -21,6 +21,7 @@ One month before the end of each semester, the following logistics need to be in
 - [ ] Set up the [workshop Etherpad](https://tiger.hpc.okstate.edu/sites/etherpad/).
   - Name the Etherpad using the `YYYY-MM-DD-okstate` convention.
   - Copy the URL from the newly created Etherpad and paste it after `collaborative_notes:` in the preamble at the top of `index.md`.
+  - Make sure to place a link to the [feedback form](https://info.library.okstate.edu/carpentries-feedback) in the Etherpad so participants can give feedback at the end of each session.
 - [ ] Fill out the workshop request form to let the Carpentries organization know about the workshop.
   - Since we are a member organization, we self-host workshops. The registration form for self-hosted workshops is [here](https://amy.carpentries.org/forms/self-organised/).
 - [ ] Don't forget to update the description at the top of the repo for the landing-page script to work.

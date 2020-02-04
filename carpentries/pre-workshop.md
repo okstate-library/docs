@@ -51,7 +51,7 @@ The workshop Etherpad is here: LINK TO ETHERPAD HERE
 
 This page will be accessible to all participants during the workshop. Feel free to put content for your lesson here ahead of time. If posting code for students to copy and paste, make sure to format the text as “Code” in the formatting options at the top of the Etherpad (see picture below). If you don’t take this step, the Etherpad may encode things like quotation marks with the wrong encoding.
 
-![code-paste](https://github.com/okstate-library/docs/edit/master/carpentries/paste-code.jpeg "Pasting code")
+![code-paste](https://okstate-library.github.io/docs/carpentries/paste-code.jpg "Pasting code")
 
 **For Everyone:**
 Workshop checklist coming soon.

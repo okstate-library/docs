@@ -36,7 +36,9 @@ Please contact Phillip Doehle (doehle@okstate.edu) if either of the following ap
 To see a list of future workshop dates, check out our [OSU Carpentries Landing Page](https://osu-carpentry.github.io/).
 
 **OSU Wizards**
+
 *Contact:* Kay Bjornen (kay.bjornen@okstate.edu)
+
 *Webpage:* <https://osf.io/ekt7m/>
 
 If you are interested in ongoing learning or being a part of a campus-wide community, please join the OSU Wizards (a coding and computing community) the first and third Wednesday of each month at 4:30 p.m.-5:30 p.m. For more information, contact Kay Bjornen (kay.bjornen@okstate.edu).

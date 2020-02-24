@@ -9,7 +9,7 @@ Access for off-campus patrons for a given resource via EZproxy.
 - The [Online Computer Library Center (OCLC)](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas) attemps to maintain an up-to-date list of stanzas on their webpage. If a resource's stanza is not listed on OCLC's webpage you will need to [create a new stanza]() yourself.
 - Resource URL. The configuration error page will contain a URL for the resource (see below). This is helpful for testing.
 
-[Config Error](https://okstate-library.github.io/docs/EZproxy/example_config_error.jpg)
+![Config Error](https://okstate-library.github.io/docs/EZproxy/example_config_error.jpg)
 
 - Administrative access to EZproxy
 

@@ -12,9 +12,16 @@ Access for off-campus patrons for a given resource via EZproxy.
 ![Config Error](https://okstate-library.github.io/docs/EZproxy/example_config_error.jpg)
 
 - Administrative access to EZproxy
+- `main_stanzas.txt` from the [GitHub repo](https://github.com/okstate-library/EZproxy)
+- Push access to the [GitHub repo](https://github.com/okstate-library/EZproxy)
 
 #### Roles
 - EZproxy admin
 
 #### Activities
-1. 
+1. Find the stanza on [OCLC's webpage](https://help.oclc.org/Library_Management/EZproxy/Database_stanzas). If OCLC does not have the stanza, you will need to [create one yourself]().
+1. If you are updating a current stanza, locate the stanza in [main_stanza.txt](https://github.com/okstate-library/EZproxy/blob/master/main_stanzas.txt).
+1. Edit the content on GitHub by clicking the little pencil at the top, righthand side of [main_stanza.txt](https://github.com/okstate-library/EZproxy/blob/master/main_stanzas.txt).
+1. If you are adding a new stanza, copy the OCLC stanza to the beginning of `main_stanzas.txt`. If you are updating a stanza, overwrite the old stanza with the new stanza copied from OCLC.
+1. Click the green "Commit changes" button at the bottom (feel free to add a comment).
+1. [Download a copy](https://github.com/okstate-library/EZproxy/archive/master.zip) of the GitHub repo.
